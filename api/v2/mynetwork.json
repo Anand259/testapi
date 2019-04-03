@@ -1,1 +1,251 @@
-{"total_join":38287,"total_earn":"1.00","upline":[],"team":[{"id":"4001","user_id":"4001","name":"Mona","join_date":"2019-02-07 15:43:21","mobile":"9929627728","sponsor_id":"4000","status":"1","join":37295,"earn":"1.00"},{"id":"14587","user_id":"14587","name":"Suraj Vishwakarma","join_date":"2019-02-10 14:49:50","mobile":"7619000710","sponsor_id":"4000","status":"1","join":1,"earn":"1.00"},{"id":"14652","user_id":"14652","name":"Misbah H.Kureshi","join_date":"2019-02-10 16:00:07","mobile":"8758873013","sponsor_id":"4000","status":"0","join":889,"earn":"1.00"},{"id":"15608","user_id":"15608","name":"Manoj Kumar ","join_date":"2019-02-11 14:38:16","mobile":"9999975215","sponsor_id":"4000","status":"0","join":0,"earn":"1.00"},{"id":"15651","user_id":"15651","name":"HAFIZUR ROHMAN","join_date":"2019-02-11 15:21:02","mobile":"8218532868","sponsor_id":"4000","status":"0","join":0,"earn":"1.00"},{"id":"22916","user_id":"22916","name":"Yogendra Kumar ","join_date":"2019-02-21 21:04:13","mobile":"6395760349","sponsor_id":"4000","status":"1","join":0,"earn":"1.00"},{"id":"25433","user_id":"25433","name":"Sanjib singha","join_date":"2019-02-24 21:58:02","mobile":"8777568984","sponsor_id":"4000","status":"0","join":10,"earn":"1.00"},{"id":"28566","user_id":"28566","name":"SANDIP BISWAS","join_date":"2019-02-28 15:06:22","mobile":"9859591244","sponsor_id":"4000","status":"0","join":1,"earn":"1.00"},{"id":"28693","user_id":"28693","name":"MANOJ KUMAR VISHWAKARMA","join_date":"2019-02-28 18:34:57","mobile":"6306389258","sponsor_id":"4000","status":"0","join":0,"earn":"1.00"},{"id":"31398","user_id":"31398","name":"Ashok","join_date":"2019-03-05 20:39:03","mobile":"9484534389","sponsor_id":"4000","status":"0","join":0,"earn":"1.00"},{"id":"14501","user_id":"14501","name":"DINESH KUMAR GUPTA","join_date":"2019-02-10 13:37:50","mobile":"09883265166","sponsor_id":"4000","status":"1","join":2,"earn":"1.00"},{"id":"12040","user_id":"12040","name":"Meghram Meena","join_date":"2019-02-08 22:04:46","mobile":"09783796468","sponsor_id":"4000","status":"0","join":1,"earn":"1.00"},{"id":"4372","user_id":"4372","name":"Sandeep ","join_date":"2019-02-07 16:54:31","mobile":"9021861695","sponsor_id":"4000","status":"1","join":10,"earn":"1.00"},{"id":"4611","user_id":"4611","name":"Arjun Suthar ","join_date":"2019-02-07 17:22:07","mobile":"7734807749","sponsor_id":"4000","status":"1","join":48,"earn":"1.00"},{"id":"4948","user_id":"4948","name":"Manoj Kumar Sakhwar","join_date":"2019-02-07 18:00:19","mobile":"9529557839","sponsor_id":"4000","status":"0","join":1,"earn":"1.00"},{"id":"5194","user_id":"5194","name":"Jacky Kapadia","join_date":"2019-02-07 18:30:06","mobile":"9428630729","sponsor_id":"4000","status":"1","join":11,"earn":"1.00"},{"id":"5818","user_id":"5818","name":"Uttam Debnath ","join_date":"2019-02-07 19:30:32","mobile":"8132943409","sponsor_id":"4000","status":"0","join":0,"earn":"1.00"},{"id":"6241","user_id":"6241","name":"RUSHIKESH JALANDAR KANASE","join_date":"2019-02-07 20:15:55","mobile":"7517605991","sponsor_id":"4000","status":"1","join":0,"earn":"1.00"},{"id":"7451","user_id":"7451","name":"Jagdeep Singh Tomar","join_date":"2019-02-07 22:15:03","mobile":"8755711661","sponsor_id":"4000","status":"0","join":0,"earn":"1.00"},{"id":"7778","user_id":"7778","name":"Sagarika Mondal","join_date":"2019-02-07 22:53:51","mobile":"9641048724","sponsor_id":"4000","status":"1","join":11,"earn":"1.00"},{"id":"10051","user_id":"10051","name":"Adpayon","join_date":"2019-02-08 12:41:51","mobile":"8617248475","sponsor_id":"4000","status":"0","join":1,"earn":"1.00"},{"id":"40315","user_id":"40315","name":"Peeraram Bhakhar Jat Dabli","join_date":"2019-03-28 22:41:48","mobile":"7568605446","sponsor_id":"4000","status":"0","join":0,"earn":"1.00"}]}
+{
+   "total_join":38287,
+   "total_earn":"1.00",
+   "upline":[
+
+   ],
+   "team":[
+      {
+         "id":"4001",
+         "user_id":"4001",
+         "name":"Mona",
+         "join_date":"2019-02-07 15:43:21",
+         "mobile":"9929627728",
+         "sponsor_id":"4000",
+         "status":"1",
+         "join":37295,
+         "earn":"1.00"
+      },
+      {
+         "id":"14587",
+         "user_id":"14587",
+         "name":"Suraj Vishwakarma",
+         "join_date":"2019-02-10 14:49:50",
+         "mobile":"7619000710",
+         "sponsor_id":"4000",
+         "status":"1",
+         "join":1,
+         "earn":"1.00"
+      },
+      {
+         "id":"14652",
+         "user_id":"14652",
+         "name":"Misbah H.Kureshi",
+         "join_date":"2019-02-10 16:00:07",
+         "mobile":"8758873013",
+         "sponsor_id":"4000",
+         "status":"0",
+         "join":889,
+         "earn":"1.00"
+      },
+      {
+         "id":"15608",
+         "user_id":"15608",
+         "name":"Manoj Kumar ",
+         "join_date":"2019-02-11 14:38:16",
+         "mobile":"9999975215",
+         "sponsor_id":"4000",
+         "status":"0",
+         "join":0,
+         "earn":"1.00"
+      },
+      {
+         "id":"15651",
+         "user_id":"15651",
+         "name":"HAFIZUR ROHMAN",
+         "join_date":"2019-02-11 15:21:02",
+         "mobile":"8218532868",
+         "sponsor_id":"4000",
+         "status":"0",
+         "join":0,
+         "earn":"1.00"
+      },
+      {
+         "id":"22916",
+         "user_id":"22916",
+         "name":"Yogendra Kumar ",
+         "join_date":"2019-02-21 21:04:13",
+         "mobile":"6395760349",
+         "sponsor_id":"4000",
+         "status":"1",
+         "join":0,
+         "earn":"1.00"
+      },
+      {
+         "id":"25433",
+         "user_id":"25433",
+         "name":"Sanjib singha",
+         "join_date":"2019-02-24 21:58:02",
+         "mobile":"8777568984",
+         "sponsor_id":"4000",
+         "status":"0",
+         "join":10,
+         "earn":"1.00"
+      },
+      {
+         "id":"28566",
+         "user_id":"28566",
+         "name":"SANDIP BISWAS",
+         "join_date":"2019-02-28 15:06:22",
+         "mobile":"9859591244",
+         "sponsor_id":"4000",
+         "status":"0",
+         "join":1,
+         "earn":"1.00"
+      },
+      {
+         "id":"28693",
+         "user_id":"28693",
+         "name":"MANOJ KUMAR VISHWAKARMA",
+         "join_date":"2019-02-28 18:34:57",
+         "mobile":"6306389258",
+         "sponsor_id":"4000",
+         "status":"0",
+         "join":0,
+         "earn":"1.00"
+      },
+      {
+         "id":"31398",
+         "user_id":"31398",
+         "name":"Ashok",
+         "join_date":"2019-03-05 20:39:03",
+         "mobile":"9484534389",
+         "sponsor_id":"4000",
+         "status":"0",
+         "join":0,
+         "earn":"1.00"
+      },
+      {
+         "id":"14501",
+         "user_id":"14501",
+         "name":"DINESH KUMAR GUPTA",
+         "join_date":"2019-02-10 13:37:50",
+         "mobile":"09883265166",
+         "sponsor_id":"4000",
+         "status":"1",
+         "join":2,
+         "earn":"1.00"
+      },
+      {
+         "id":"12040",
+         "user_id":"12040",
+         "name":"Meghram Meena",
+         "join_date":"2019-02-08 22:04:46",
+         "mobile":"09783796468",
+         "sponsor_id":"4000",
+         "status":"0",
+         "join":1,
+         "earn":"1.00"
+      },
+      {
+         "id":"4372",
+         "user_id":"4372",
+         "name":"Sandeep ",
+         "join_date":"2019-02-07 16:54:31",
+         "mobile":"9021861695",
+         "sponsor_id":"4000",
+         "status":"1",
+         "join":10,
+         "earn":"1.00"
+      },
+      {
+         "id":"4611",
+         "user_id":"4611",
+         "name":"Arjun Suthar ",
+         "join_date":"2019-02-07 17:22:07",
+         "mobile":"7734807749",
+         "sponsor_id":"4000",
+         "status":"1",
+         "join":48,
+         "earn":"1.00"
+      },
+      {
+         "id":"4948",
+         "user_id":"4948",
+         "name":"Manoj Kumar Sakhwar",
+         "join_date":"2019-02-07 18:00:19",
+         "mobile":"9529557839",
+         "sponsor_id":"4000",
+         "status":"0",
+         "join":1,
+         "earn":"1.00"
+      },
+      {
+         "id":"5194",
+         "user_id":"5194",
+         "name":"Jacky Kapadia",
+         "join_date":"2019-02-07 18:30:06",
+         "mobile":"9428630729",
+         "sponsor_id":"4000",
+         "status":"1",
+         "join":11,
+         "earn":"1.00"
+      },
+      {
+         "id":"5818",
+         "user_id":"5818",
+         "name":"Uttam Debnath ",
+         "join_date":"2019-02-07 19:30:32",
+         "mobile":"8132943409",
+         "sponsor_id":"4000",
+         "status":"0",
+         "join":0,
+         "earn":"1.00"
+      },
+      {
+         "id":"6241",
+         "user_id":"6241",
+         "name":"RUSHIKESH JALANDAR KANASE",
+         "join_date":"2019-02-07 20:15:55",
+         "mobile":"7517605991",
+         "sponsor_id":"4000",
+         "status":"1",
+         "join":0,
+         "earn":"1.00"
+      },
+      {
+         "id":"7451",
+         "user_id":"7451",
+         "name":"Jagdeep Singh Tomar",
+         "join_date":"2019-02-07 22:15:03",
+         "mobile":"8755711661",
+         "sponsor_id":"4000",
+         "status":"0",
+         "join":0,
+         "earn":"1.00"
+      },
+      {
+         "id":"7778",
+         "user_id":"7778",
+         "name":"Sagarika Mondal",
+         "join_date":"2019-02-07 22:53:51",
+         "mobile":"9641048724",
+         "sponsor_id":"4000",
+         "status":"1",
+         "join":11,
+         "earn":"1.00"
+      },
+      {
+         "id":"10051",
+         "user_id":"10051",
+         "name":"Adpayon",
+         "join_date":"2019-02-08 12:41:51",
+         "mobile":"8617248475",
+         "sponsor_id":"4000",
+         "status":"0",
+         "join":1,
+         "earn":"1.00"
+      },
+      {
+         "id":"40315",
+         "user_id":"40315",
+         "name":"Peeraram Bhakhar Jat Dabli",
+         "join_date":"2019-03-28 22:41:48",
+         "mobile":"7568605446",
+         "sponsor_id":"4000",
+         "status":"0",
+         "join":0,
+         "earn":"1.00"
+      }
+   ]
+}
