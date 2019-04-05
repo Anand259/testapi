@@ -117,7 +117,7 @@
          "scratch_win":"0.0",
          "status":"1",
          "amount":0,
-         "team":1660
+         "team":1665
       },
       {
          "id":"8",
@@ -134,15 +134,15 @@
          "scratch_win":"0.0",
          "status":"1",
          "amount":0,
-         "team":674
+         "team":675
       }
    ],
-   "total_join":39890,
+   "total_join":39916,
    "total_earn":"1.00",
    "yes_join":494,
    "yes_earn":0,
-   "today_join":308,
+   "today_join":334,
    "today_earn":0,
-   "month_join":2270,
+   "month_join":2296,
    "month_earn":0
 }
